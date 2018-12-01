@@ -1,0 +1,5 @@
+<launch>
+
+  <node pkg="vehicle_state" type="vehicle_lane_position.py" name="vehicle_lane_position"/>
+
+</launch>
